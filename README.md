@@ -28,7 +28,7 @@ This repository provides a list of project hosting platforms.
 
   - **Quickstart Guide:** [Cyclic Documentation](https://docs.cyclic.sh/#quick-start)
 
-  - Cyclic provides a free tier in which you can host **3** apps in total.
+  - Cyclic provides a free tier in which you can host **1** apps in total.
 
   - **More on Pricing:** [Cyclic Pricing](https://www.cyclic.sh/pricing/)
 
